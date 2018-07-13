@@ -1,0 +1,16 @@
+20:14:17 **** Build of configuration Debug for project f ****
+make all 
+Cannot run program "make": Launching failed
+
+Error: Program "make" not found in PATH
+PATH=[C:/Program Files/Java/jre1.8.0_171/bin/server;C:/Program Files/Java/jre1.8.0_171/bin;C:/Program Files/Java/jre1.8.0_171/lib/amd64;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Users\lzdra\AppData\Local\Programs\Python\Python36-32\Scripts\;C:\Users\lzdra\AppData\Local\Programs\Python\Python36-32\;C:\Users\lzdra\AppData\Local\Microsoft\WindowsApps;;F:\]
+20:24:16 **** Rebuild of configuration Debug for project asd ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\asd.o" "..\\src\\asd.cpp" 
+g++ -o asd.exe "src\\asd.o" 
+Info: Nothing to build for asd
+Info: Nothing to build for asd
+Info: Nothing to build for asd
+Info: Nothing to build for asd
+Info: Nothing to build for asd
+Info: Nothing to build for asd
